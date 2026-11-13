@@ -1,20 +1,27 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T06:10:04+00:00",
+  "generated_at": "2026-11-13T16:55:00+00:00",
   "tables": {
     "item_names": {
-      "version": 1,
+      "version": 2,
       "count": 7012,
       "size": 295305,
-      "sha256": "57a9bfc32d8b8b29037273657aa23a4d780dbece1bdb65e54d1d0d09f23f178a",
+      "sha256": "2f96c1d0095458bc528fcca5d24be692019c97cf67953236160f404e023e8a1c",
       "file": "item_names.json"
     },
     "glossary": {
-      "version": 1,
-      "count": 3374,
-      "size": 111754,
-      "sha256": "bf26d7ea9d5fb629c4951bc68db7d2655654d0d6c9bffeff5170b6a5f084e75d",
+      "version": 2,
+      "count": 3621,
+      "size": 126624,
+      "sha256": "063e60a9eb1c7455aae4dfe9dae11656d5c6124631d060f6b6e494fa90b9bc09",
       "file": "glossary.json"
+    },
+    "locations": {
+      "version": 1,
+      "count": 169,
+      "size": 3344,
+      "sha256": "18dcf63325311043580410387b6beb6656afb32386400ef96724edb1efc57e3e",
+      "file": "locations.json"
     }
   }
 }
