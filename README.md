@@ -10,7 +10,8 @@
 | 文件 | 内容 | 条数 |
 |---|---|---|
 | `item_names.json` | Hypixel SkyBlock NEU 仓库物品名 → 简体中文 | 7012 |
-| `glossary.json` | 游戏术语固定译名 | 3374 |
+| `glossary.json` | 游戏术语、活动、NPC、重铸等固定译名 | 3621 |
+| `locations.json` | 地点/区域名白名单（Royal Mines 这类单专名放行） | 169 |
 | `manifest.json` | 版本号、条数、sha256（模组据此判断要不要下载） | — |
 
 格式均为扁平 JSON：`{"英文原文小写": "中文译文"}`。
